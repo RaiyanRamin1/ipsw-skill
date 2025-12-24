@@ -25,16 +25,16 @@ brew install blacktop/tap/ipsw
 
 ### Claude Code
 
-Install from the marketplace:
+Install the marketplace:
 
 ```bash
-claude /marketplace install blacktop/ipsw-skill
+claude plugin marketplace add blacktop/ipsw-skill
 ```
 
-Or install as a plugin directly:
+Install the plugin:
 
 ```bash
-claude /install-plugin https://github.com/blacktop/ipsw-skill
+claude plugin install ipsw
 ```
 
 Or install manually by cloning:

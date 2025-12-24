@@ -1,17 +1,19 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "ipsw-skill",
-  "version": "1.0.0",
-  "description": "Apple firmware and binary reverse engineering skills using the ipsw CLI tool",
   "owner": {
     "name": "blacktop"
+  },
+  "metadata": {
+    "description": "Apple firmware and binary reverse engineering skills using the ipsw CLI tool",
+    "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "ipsw",
       "description": "Apple firmware and binary reverse engineering using the ipsw CLI tool",
       "source": "./",
-      "category": "development"
+      "strict": false,
+      "skills": ["./skills/ipsw"]
     }
   ]
 }

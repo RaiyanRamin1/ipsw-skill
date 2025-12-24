@@ -55,14 +55,17 @@ Use the built-in `$skill-installer` to install from GitHub:
 $skill-installer https://github.com/blacktop/ipsw-skill
 ```
 
-Or install manually by cloning to a skills directory:
+Or install manually by copying the skill folder:
 
 ```bash
-# User-wide (available in all projects)
-git clone https://github.com/blacktop/ipsw-skill ~/.codex/skills/ipsw
+# Clone the repo
+git clone https://github.com/blacktop/ipsw-skill /tmp/ipsw-skill
 
-# Project-specific (check into your repo)
-git clone https://github.com/blacktop/ipsw-skill .codex/skills/ipsw
+# User-wide (available in all projects)
+cp -r /tmp/ipsw-skill/skills/ipsw ~/.codex/skills/
+
+# Or project-specific (check into your repo)
+cp -r /tmp/ipsw-skill/skills/ipsw .codex/skills/
 ```
 
 > **Note**: Run Codex with `--enable skills` if skills aren't loading automatically.
@@ -87,8 +90,7 @@ Once installed, Claude will automatically use this skill when you ask about Appl
 
 ```
 .claude-plugin/
-├── plugin.json                 # Plugin metadata
-└── marketplace.json            # Marketplace metadata
+└── marketplace.json            # Marketplace configuration
 skills/
 └── ipsw/
     ├── SKILL.md                # Core workflows and quick reference

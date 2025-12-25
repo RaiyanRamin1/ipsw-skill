@@ -55,7 +55,7 @@ mv /tmp/ipsw-skill/skills/ipsw .claude/skills/ipsw
 Use the built-in `$skill-installer` to install from GitHub:
 
 ```
-$skill-installer https://github.com/blacktop/ipsw-skill
+$skill-installer https://github.com/blacktop/ipsw-skill --path skills/ipsw
 ```
 
 Or install manually by copying the skill folder:

